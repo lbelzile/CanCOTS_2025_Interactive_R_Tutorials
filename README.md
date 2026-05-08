@@ -37,6 +37,17 @@ The deliverable for the sub-group is a skeleton of a course consisting of
 A template for a sample course can be viewed by [**clicking here**](https://nishanmudalige.github.io/CanCOTS_2025_Interactive_R_Tutorials/).
 
 ---
+
+## Additional Resources
+
+| Resource | Description | Link |
+|---|---|---|
+| **Quarto Slides** | Quarto and Reveal.js slide for statistics and data science courses created by [Irene Vrbik](https://github.com/vrbiki). | [View slides](https://irene.vrbik.ok.ubc.ca/courses/) |
+| **Activities and Simulations** | Interactive `webR` activities and simulations created by [Kyran Cupido](https://cupidok.github.io/). | [View activities](https://cupidok.github.io/stats/) |
+| **Tutorials** | STA258 interactive tutorials created by [Nishan Mudalige](https://github.com/nishanmudalige) using `webR` and `learnr`. | [View tutorials](https://nishanmudalige.github.io/STA258_Tutorials/) |
+
+
+---
 # Prerequisites
 
 The steps below are from [https://quarto-webr.thecoatlessprofessor.com/](https://quarto-webr.thecoatlessprofessor.com/).
