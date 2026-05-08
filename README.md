@@ -6,12 +6,12 @@ This repository contains WebR templates and instructions from CanCOTS 2025 in Mo
 ## Team Members
 
 | Role | Name | GitHub | Contributions |
-|---|---|---|---|
-| **Team Leader** | [Dave Riegert](https://github.com/driegert) | [![Follow @driegert](https://img.shields.io/badge/Follow-%40driegert-lightgrey?logo=github)](https://github.com/driegert) | Provided training, led group and wrote instructions in the README file. |
-| **Contributor** | [Kyran Kupido](https://github.com/cupidok) | [![Follow @cupidok](https://img.shields.io/badge/Follow-%40cupidok-lightgrey?logo=github)](https://github.com/cupidok) | Added sample activities and simulations. |
-| **Contributor** | [Nishan Mudalige](https://github.com/nishanmudalige) | [![Follow @nishanmudalige](https://img.shields.io/badge/Follow-%40nishanmudalige-lightgrey?logo=github)](https://github.com/nishanmudalige) | Added sample tutorials and created this web page. |
-| **Contributor** | [Irene Vrbik](https://github.com/vrbiki) | [![Follow @vrbiki](https://img.shields.io/badge/Follow-%40vrbiki-lightgrey?logo=github)](https://github.com/vrbiki) | Created the skeleton course with sample slides. |
-| **Participant** | [Allan Majdanac](https://github.com/majdanaca) | [![Follow @vrbiki](https://img.shields.io/badge/Follow-%40majdanaca-lightgrey?logo=github)](https://github.com/majdanaca) | Testing. |
+|----|----|----|---|
+| **Team Leader** | [Dave Riegert](https://github.com/driegert) | [![GitHub: driegert](https://img.shields.io/badge/GitHub-driegert-lightgrey?logo=github)](https://github.com/driegert) | Provided training, led group and wrote instructions in the README file. |
+| **Contributor** | [Kyran Kupido](https://github.com/cupidok) | [![GitHub: cupidok](https://img.shields.io/badge/GitHub-cupidok-lightgrey?logo=github)](https://github.com/cupidok) | Added sample activities and simulations. |
+| **Contributor** | [Nishan Mudalige](https://github.com/nishanmudalige) | [![GitHub: nishanmudalige](https://img.shields.io/badge/GitHub-nishanmudalige-lightgrey?logo=github)](https://github.com/nishanmudalige) | Added sample tutorials and created this web page. |
+| **Contributor** | [Irene Vrbik](https://github.com/vrbiki) | [![GitHub: vrbiki](https://img.shields.io/badge/GitHub-vrbiki-lightgrey?logo=github)](https://github.com/vrbiki) | Created the skeleton course with sample slides. |
+| **Participant** | [Allan Majdanac](https://github.com/majdanaca) | [![GitHub: majdanaca](https://img.shields.io/badge/GitHub-majdanaca-lightgrey?logo=github)](https://github.com/majdanaca) | Testing. |
 
 ---
 
