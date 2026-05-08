@@ -1,7 +1,7 @@
 # cancots2025_webr
 WebR templates and instructions from CanCOTS 2025 in Montreal (June 10-12).
 
-You can view the template, rendered to HTML, by [clicking here](https://nishanmudalige.github.io/cancots2025_webr/webr-html_template.html)
+You can view a template for a sample course by [clicking here](https://nishanmudalige.github.io/CanCOTS_2025_Interactive_R_Tutorials/)
 
 The steps below are from [https://quarto-webr.thecoatlessprofessor.com/](https://quarto-webr.thecoatlessprofessor.com/).
 
@@ -52,13 +52,6 @@ Next, fork the repository to your own GitHub account by clicking the "Fork" butt
 
 
 
-
-
-
-
-
-
-
 # Steps
 To use this template you should:
 
@@ -74,8 +67,14 @@ quarto uninstall tinytex
 ```bash
 quarto install tinytex
 ```
-6. Create a new directory for your Web-R files (file explorer, terminal, etc.).
-7. From the command line, navigate to the direcotry you created in the last step and run:
+6. Install `rwasm` (Build R Packages for WebAssembly)
+```bash
+# install.packages("pak")
+pak::pak("r-wasm/rwasm")
+```
+
+7. Create a new directory for your Web-R files (file explorer, terminal, etc.).
+8. From the command line, navigate to the direcotry you created in the last step and run:
 ```bash
 quarto add coatless/quarto-webr
 ```
