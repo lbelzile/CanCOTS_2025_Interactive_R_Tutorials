@@ -1,8 +1,8 @@
 ---
-title: "Week 01"
-subtitle: "Playing around"
-author: "Dave Riegert"
-institute: "Trent University"
+title: "An Activity in R on Coin Flipping"
+subtitle: "Run R code to simulate the results of flipping coins many times"
+author: "Kyran Cupido"
+institute: "St. Francis Xavier University"
 execute: 
   echo: true
 format:

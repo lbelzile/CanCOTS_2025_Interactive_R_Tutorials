@@ -1,6 +1,8 @@
 ---
 title: "Graded Tutorial: Introduction to R"
 subtitle: "A graded tutorial to test introductory knowledge in R"
+author: "Aarushi Alreja, Kabir Bhatia, Nishan Mudalige"
+institute: "University of Toronto"
 format: live-html
 engine: knitr
 ---

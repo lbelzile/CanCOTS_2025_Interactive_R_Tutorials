@@ -1,8 +1,8 @@
 ---
 title: "Tutorial: Introduction to R"
 subtitle: "A tutorial to introduce R"
-author: "Your Name"
-institute: "Your Intstituion"
+author: "Dave Riegert"
+institute: "Trent University"
 execute: 
   echo: true
 format:

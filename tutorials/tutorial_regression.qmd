@@ -1,8 +1,8 @@
 ---
 title: "Tutorial: Regression Analaysis with R"
-subtitle: "A tutorial to on regression analysis with R"
-author: "Your Name"
-institute: "Your Intstituion"
+subtitle: "A tutorial on regression analysis with R"
+author: "Nishan Mudalige"
+institute: "University of Toronto"
 resources:
   - images/adeliepenguin.jpg
 execute: 

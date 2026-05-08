@@ -1,8 +1,8 @@
 ---
 title: "An Activity in R on Coin Flipping"
 subtitle: "Run R code to simulate the results of flipping coins many times"
-author: "Your Name"
-institute: "Your Intstituion"
+author: "Kyran Cupido"
+institute: "St. Francis Xavier University"
 execute: 
   echo: true
 format:
