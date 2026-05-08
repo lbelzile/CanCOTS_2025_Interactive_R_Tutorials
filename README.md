@@ -13,6 +13,14 @@ This repository contains WebR templates and instructions from CanCOTS 2025 in Mo
 | Contributor | [Irene Vrbik](https://github.com/vrbiki) | [![GitHub: vrbiki](https://img.shields.io/badge/GitHub-vrbiki-lightgrey?logo=github)](https://github.com/vrbiki) | Created the skeleton course with sample slides. |
 | Participant | [Allan Majdanac](https://github.com/majdanaca) | [![GitHub: majdanaca](https://img.shields.io/badge/GitHub-majdanaca-lightgrey?logo=github)](https://github.com/majdanaca) | Testing. |
 
+## Additional Support
+
+| Role | Name | GitHub | Contributions |
+|----|----|----|---|
+| Organizing Committee | [Léo Raymond-Belzile](https://github.com/lbelzile) | [![GitHub: lbelzile](https://img.shields.io/badge/GitHub-lbelzile-lightgrey?logo=github)](https://github.com/lbelzile) | Provided additional training and guidance, helped with troubleshooting. |
+| Technical support | [Aarushi Alreja](https://github.com/aarushi-codes) | [![GitHub: aarushi-codes](https://img.shields.io/badge/GitHub-aarushi--codes-lightgrey?logo=github)](https://github.com/aarushi-codes) | Technical assistance with GitHub. |
+| Technical support | [Kabir Bhatia](https://github.com/kabir-codes) | [![GitHub: kabir-codes](https://img.shields.io/badge/GitHub-kabir--codes-lightgrey?logo=github)](https://github.com/kabir-codes) | Technical assistance with GitHub. |
+
 ---
 
 ## Delivarable: Sample Course (Slides, Activities, Tutorials)
