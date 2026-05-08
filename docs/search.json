@@ -446,5 +446,26 @@
     "title": "Regression",
     "section": "References",
     "text": "References\n\n\n\n\nDevore, J. L., K. N. Berk, and M. A. Carlton. 2021. Modern Mathematical Statistics with Applications. Springer Texts in Statistics. Springer International Publishing. https://books.google.ca/books?id=ghcsEAAAQBAJ."
+  },
+  {
+    "objectID": "course_skeleton/index.html",
+    "href": "course_skeleton/index.html",
+    "title": " Course Title",
+    "section": "",
+    "text": "This is a generic course landing page.\nHere students will find:"
+  },
+  {
+    "objectID": "course_skeleton/index.html#course-schedule",
+    "href": "course_skeleton/index.html#course-schedule",
+    "title": " Course Title",
+    "section": "Course Schedule",
+    "text": "Course Schedule\nThe schedule below is tentative and may be adjusted as the course progresses.\n\nLectures\n\n\n\nTable 1: The tentative course schedule for lectures\n\n\n\n\n\nWeek\nTopic\nMaterials\n\n\n\n\n1\nIntroduction to Quarto Slides with webr\nSlides\n\n\n2\nLinear Regression demo\nSlides\n\n\n\n\n\n\n\n\nInteractive Activities and Simulations\n\n\n\nTable 2: The tentative course schedule for interactive activities and simulations with R\n\n\n\n\n\nWeek\nTopic\nMaterials\n\n\n\n\n1\nCoin Flipping activity\nActivity\n\n\n\n\n\n\n\n\nInteractive R Tutorials\n\n\n\nTable 3: The tentative course schedule for interactive R tutorials\n\n\n\n\n\nWeek\nTopic\nMaterials\n\n\n\n\n1\nIntroduction to R\nTutorial\n\n\n2\nTutorial on Regression with R\nTutorial\n\n\n3\nGraded tutorial on introductory level content in R\nTutorial"
+  },
+  {
+    "objectID": "course_skeleton/index.html#lecture-slide",
+    "href": "course_skeleton/index.html#lecture-slide",
+    "title": " Course Title",
+    "section": "Lecture Slide",
+    "text": "Lecture Slide\nThe slide decks above were made in Quarto in revealjs (HTML). A lecture template with some helpful demonstrations can be here; see the rendered version here.\n\n\n\n\n\n\nNote\n\n\n\nNote that revealjs presentations can be presented as HTML slides or can be printed to PDF for easier distribution. 🎉\n\n\n\nPrint/Save to PDF:\nReveal presentations can be exported to PDF via a special print stylesheet.\n\nToggle into Print View using the E key (or using the Navigation Menu)\nOpen the in-browser[^2] print dialog (CTRL/CMD+P).\nChange the Destination setting to Save as PDF.\nChange the Layout to Landscape.\nChange the Margins to None.\nEnable the Background graphics option.\nClick Save 🎉\n\nVisit https://quarto.org/docs/presentations/revealjs/ for more details on create revealjs slides."
   }
 ]

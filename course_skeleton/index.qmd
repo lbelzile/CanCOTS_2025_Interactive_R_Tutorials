@@ -24,22 +24,22 @@ The schedule below is tentative and may be adjusted as the course progresses.
 
 | Week | Topic | Materials |
 |-----------------------:|:-----------------------|------------------------|
-| 1 | Introduction to Quarto Slidesex with webr | [Slides](lectures/lecture-template.html) |
+| 1 | Introduction to Quarto Slides with webr | [Slides](lectures/lecture-template.html) |
 | 2 | Linear Regression demo | [Slides](lectures/regression-lecture.html) |
 
 : *The tentative course schedule for lectures* {#tbl-lecsched}
 
 
-### Activities and Simulations
+### Interactive Activities and Simulations
 
 | Week | Topic | Materials |
 |-----------------------:|:-----------------------|------------------------|
 | 1 | Coin Flipping activity | [Activity](activities/activity_coins.html) |
 
-: *The tentative course schedule for activities and simulations* {#tbl-activitysched}
+: *The tentative course schedule for interactive activities and simulations with R* {#tbl-activitysched}
 
 
-### R Tutorials
+### Interactive R Tutorials
 
 | Week | Topic | Materials |
 |-----------------------:|:-----------------------|------------------------|
@@ -47,7 +47,7 @@ The schedule below is tentative and may be adjusted as the course progresses.
 | 2 | Tutorial on Regression with R | [Tutorial](tutorials/tutorial_intro_to_r.html) |
 | 3 | Graded tutorial on introductory level content in R | [Tutorial](tutorials/graded_tutorial_intro_to_r.html) |
 
-: *The tentative course schedule for tutorials* {#tbl-tutorialsched}
+: *The tentative course schedule for interactive R tutorials* {#tbl-tutorialsched}
 
 
 
