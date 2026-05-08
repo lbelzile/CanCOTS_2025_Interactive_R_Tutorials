@@ -10,21 +10,47 @@ This is a generic course landing page.
 
 Here students will find:
 
-- a course [syllabus](syllabus.html) (edit this in `syllabus.qmd`)
-
-- A tentative schedule; see @tbl-sched
+- A course [syllabus](syllabus.html) (edit this in `syllabus.qmd`)
+- A tentative lecture schedule; see @tbl-lecsched
+- A tentative schedule for activities; see @tbl-activitysched
+- A tentative tutorial schedule; see @tbl-tutorialsched
 
 
 ## Course Schedule
 
 The schedule below is tentative and may be adjusted as the course progresses.
 
+### Lectures
+
 | Week | Topic | Materials |
 |-----------------------:|:-----------------------|------------------------|
-| 1 | Introduction to Quarto Slides with webr | [slides](lectures/lecture-template.html) |
-| 2 | Linear Regression demo | [slides](lectures/regression-lecture.html) |
+| 1 | Introduction to Quarto Slidesex with webr | [Slides](lectures/lecture-template.html) |
+| 2 | Linear Regression demo | [Slides](lectures/regression-lecture.html) |
 
-: *The tentative course schedule* {#tbl-sched}
+: *The tentative course schedule for lectures* {#tbl-lecsched}
+
+
+### Activities and Simulations
+
+| Week | Topic | Materials |
+|-----------------------:|:-----------------------|------------------------|
+| 1 | Coin Flipping activity | [Activity](activities/activity_coins.html) |
+
+: *The tentative course schedule for activities and simulations* {#tbl-activitysched}
+
+
+### R Tutorials
+
+| Week | Topic | Materials |
+|-----------------------:|:-----------------------|------------------------|
+| 1 | Introduction to R | [Tutorial](tutorials/tutorial_intro_to_r.html) |
+| 2 | Tutorial on Regression with R | [Tutorial](tutorials/tutorial_intro_to_r.html) |
+| 3 | Graded tutorial on introductory level content in R | [Tutorial](tutorials/graded_tutorial_intro_to_r.html) |
+
+: *The tentative course schedule for tutorials* {#tbl-tutorialsched}
+
+
+
 
 
 ## Lecture Slide
