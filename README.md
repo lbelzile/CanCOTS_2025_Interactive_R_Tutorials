@@ -11,7 +11,7 @@ This repository contains WebR templates and instructions from CanCOTS 2025 in Mo
 |----|----|----|---|
 | Team Leader | [Dave Riegert](https://github.com/driegert) | [![GitHub: driegert](https://img.shields.io/badge/GitHub-driegert-lightgrey?logo=github)](https://github.com/driegert) | Provided training, led group and wrote instructions in the README file. |
 | Contributor | [Kyran Kupido](https://github.com/cupidok) | [![GitHub: cupidok](https://img.shields.io/badge/GitHub-cupidok-lightgrey?logo=github)](https://github.com/cupidok) | Added sample activities and simulations. |
-| Contributor | [Nishan Mudalige](https://github.com/nishanmudalige) | [![GitHub: nishanmudalige](https://img.shields.io/badge/GitHub-nishanmudalige-lightgrey?logo=github)](https://github.com/nishanmudalige) | Added sample tutorials and created this web page. |
+| Contributor | [Nishan Mudalige](https://github.com/nishanmudalige) | [![GitHub: nishanmudalige](https://img.shields.io/badge/GitHub-nishanmudalige-lightgrey?logo=github)](https://github.com/nishanmudalige) | Added sample tutorials, merged contributions, partially updated README. |
 | Contributor | [Irene Vrbik](https://github.com/vrbiki) | [![GitHub: vrbiki](https://img.shields.io/badge/GitHub-vrbiki-lightgrey?logo=github)](https://github.com/vrbiki) | Created the skeleton course with sample slides. |
 | Participant | [Allan Majdanac](https://github.com/majdanaca) | [![GitHub: majdanaca](https://img.shields.io/badge/GitHub-majdanaca-lightgrey?logo=github)](https://github.com/majdanaca) | Testing. |
 
