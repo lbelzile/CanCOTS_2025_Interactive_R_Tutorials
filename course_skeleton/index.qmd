@@ -45,7 +45,7 @@ The schedule below is tentative and may be adjusted as the course progresses.
 | Week | Topic | Materials |
 |-----------------------:|:-----------------------|------------------------|
 | 1 | Introduction to R | [Tutorial](tutorials/tutorial_intro_to_r.html) |
-| 2 | Tutorial on Regression with R | [Tutorial](tutorials/tutorial_intro_to_r.html) |
+| 2 | Tutorial on Regression with R | [Tutorial](tutorials/tutorial_regression.html) |
 | 3 | Graded tutorial on introductory level content in R | [Tutorial](tutorials/graded_tutorial_intro_to_r.html) |
 
 : *The tentative course schedule for interactive R tutorials* {#tbl-tutorialsched}
